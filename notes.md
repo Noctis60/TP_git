@@ -2,4 +2,5 @@
 #Rappels
 Git est un système de versinnement distribué
 #Avantage 
-Git est un outils incroyables
+Git est un outils incroyablments puissants
+
